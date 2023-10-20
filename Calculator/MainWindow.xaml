@@ -52,7 +52,7 @@
                 Style="{StaticResource numberButtonsStyle}"
                 Content="7"
                 Grid.Row="2"/>
-        <Button x:Name="eightButton"
+        <Buttn x:Name="eightButton"
                 Click="NumberButton_Click"
                 Style="{StaticResource numberButtonsStyle}"
                 Content="8"
